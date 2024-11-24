@@ -1,5 +1,5 @@
 # ubuntu_hardening
-## Adding a user to the sudo group
+### Adding a user to the sudo group
 sudo adduser exb
 sudo usermod -aG sudo exb
 
