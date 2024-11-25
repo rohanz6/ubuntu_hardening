@@ -71,6 +71,7 @@ sudo apt install htop neofetch
 ### Install and Configure fail2ban
 ### Remove Unnecessary Packages
 ### Remove Unnecessary Services
+### Automatic Update
 
 
 
